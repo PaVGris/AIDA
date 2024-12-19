@@ -79,67 +79,67 @@ i. Сделать выводы
     <tr>
         <td rowspan="2">KNN</td>
         <td>классификация</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
+        <td>0.9750</td>
+        <td>0.9694</td>
+        <td>0.9722</td>
     </tr>
     <tr>
         <td>регрессия</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
+        <td>21.4574</td>
+        <td>21.4260</td>
+        <td>21.4260</td>
     </tr>
     <tr>
         <td rowspan="2">Линейные модели</td>
         <td>классификация</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
+        <td>0.9722</td>
+        <td>0.9722</td>
         <td>//TODO</td>
     </tr>
     <tr>
         <td>регрессия</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
+        <td>0.0000</td>
+        <td>0.0000</td>
         <td>//TODO</td>
     </tr>
     <tr>
         <td rowspan="2">Решающее дерево</td>
         <td>классификация</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
+        <td>0.8611</td>
+        <td>0.8639</td>
         <td>//TODO</td>
     </tr>
     <tr>
         <td>регрессия</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
+        <td>30.2657</td>
+        <td>30.9095</td>
         <td>//TODO</td>
     </tr>
     <tr>
         <td rowspan="2">Случайный лес</td>
         <td>классификация</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
+        <td>0.9778</td>
+        <td>0.9750</td>
+        <td>0.9222</td>
     </tr>
     <tr>
         <td>регрессия</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
+        <td>18.2492</td>
+        <td>18.4824</td>
+        <td>20.6369</td>
     </tr>
     <tr>
         <td rowspan="2">Градиентный бустинг</td>
         <td>классификация</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
+        <td>0.9694</td>
+        <td>0.9722</td>
+        <td>0.4944</td>
     </tr>
     <tr>
         <td>регрессия</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
-        <td>//TODO</td>
+        <td>15.6322</td>
+        <td>13.0474</td>
+        <td>12.9222</td>
     </tr>
 </table>
 
